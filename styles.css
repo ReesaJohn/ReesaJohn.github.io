@@ -1,9 +1,20 @@
 body {
-    background-color: powderblue;
+    background-color: white;
 }
 h1 {
-    color: blue;
+	font-family: "Verdana",sans-serif;
+    color: navy;
+}
+h5 {
+	font-family: "Verdana",sans-serif;
+    color: navy;
 }
 p {
-    color: red;
+	font-family: "Verdana",sans-serif;
+    color: navy;
+}
+
+a{
+	font-family: "Verdana",sans-serif;
+	color: navy;
 }
